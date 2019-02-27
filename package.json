@@ -1,0 +1,27 @@
+{
+  "name": "mecontrata-app",
+  "version": "1.0.0",
+  "description": "Um job board onde empresas publicam vagas de emprego, e pessoas que procuram emprego possam candidatar-se as vagas disponiveis de forma gratuita.",
+  "main": "index.js",
+  "directories": {
+    "lib": "project"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonmfinda/mecontrata-app.git"
+  },
+  "keywords": [
+    "jobs",
+    "board",
+    "project"
+  ],
+  "author": "Nelson Mfinda <nelsonmfinda@hotmail.com> (https://nelsonmfinda.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonmfinda/mecontrata-app/issues"
+  },
+  "homepage": "https://github.com/nelsonmfinda/mecontrata-app#readme"
+}
